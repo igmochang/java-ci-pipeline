@@ -1,4 +1,4 @@
-<project name="Calculator" default="dist" basedir=".">
+<project name="java-ci-pipeline" default="dist" basedir=".">
     <description>
         simplest example build file
     </description>
